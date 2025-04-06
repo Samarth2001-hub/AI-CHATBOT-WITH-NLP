@@ -29,3 +29,7 @@ c) Basic NLP: It uses simple regex matching rather than advanced techniques like
  These imports provide the core functionality for pattern matching and response generation, abstracting away complex NLP tasks into a simple framework suitable for beginners.
 
 The primary advantages of this code lie in its simplicity, accessibility, and customizability, making it an excellent choice for learning, quick prototyping, or small-scale, controlled interactions. It’s a practical starting point in the world of NLP and chatbot development, offering a balance of functionality and ease that more advanced systems sacrifice for power. If you’re looking to build something fast, understandable, and fully under your control, this code is a fantastic tool to have in your arsenal.
+
+OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/a69f6819-934c-4ef5-b8e6-d7d0feb50e6d)
